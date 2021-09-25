@@ -1,0 +1,1 @@
+# to-generate-player-s-score
